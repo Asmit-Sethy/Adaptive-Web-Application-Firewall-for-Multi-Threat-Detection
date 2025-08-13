@@ -1,0 +1,5 @@
+<script>
+</script>
+alert(
+javascript:
+<img src=x onerror=alert(1)>
